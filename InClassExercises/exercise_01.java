@@ -2,9 +2,10 @@
  * @Author: ehcgnahc 
  * @Date: 2025-09-18 18:23:40 
  * @Last Modified by: ehcgnahc
- * @Last Modified time: 2025-10-14 17:00:38
+ * @Last Modified time: 2025-10-21 14:41:37
  * 
  * 課堂練習：一元二次方程式
+ * 
  * 求一元二次方程式 ax² + bx + c = 0 的根
  */
 package InClassExercises;
