@@ -15,7 +15,6 @@
  * 以 for 迴圈計算等比級數：
  * S = a + a*b + a*b^2 + a*b^3 + … + a*b^(n-1)
  */
-package InClassExercises;
 
 import java.util.Scanner;
 

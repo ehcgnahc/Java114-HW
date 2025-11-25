@@ -9,7 +9,6 @@
  * 計算調和級數到第 n 項：
  * Hn = 1 + 1/2 + 1/3 + ... + 1/n
  */
-package InClassExercises;
 
 import java.util.Scanner;
 

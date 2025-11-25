@@ -14,7 +14,6 @@
  * 若分數未滿60，則級別為F
  * （請使用巢狀 if 指令判斷）
  */
-package InClassExercises;
 
 import java.util.Scanner;
 

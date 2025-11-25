@@ -8,7 +8,6 @@
  * 
  * 將矩陣 A 轉置為另一個矩陣 B，並將 B 印出
  */
-package InClassExercises;
 
 public class exercise_05 {
     public static void main(String[] args){

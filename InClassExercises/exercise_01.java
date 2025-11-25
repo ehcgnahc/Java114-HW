@@ -8,7 +8,6 @@
  * 
  * 求一元二次方程式 ax² + bx + c = 0 的根
  */
-package InClassExercises;
 
 import java.util.Scanner;
 

@@ -10,7 +10,6 @@
  * 1. 計算 n!（階乘）
  * 2. 呼叫階乘方法計算 C(n, m) = n! / (m! * (n - m)!)
  */
-package InClassExercises;
 
 import java.util.Scanner;
 

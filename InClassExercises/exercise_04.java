@@ -10,7 +10,6 @@
  * 再依序輸入每位學生在各科的成績
  * 計算並輸出每一位學生的平均分數
  */
-package InClassExercises;
 
 import java.util.Scanner;
 
