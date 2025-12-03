@@ -1,3 +1,6 @@
 *.class
+*.zip
+*.rar
+*.7z
 /target/
 /build/
