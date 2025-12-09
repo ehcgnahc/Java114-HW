@@ -1,4 +1,4 @@
-package HW3.Skill.DodgeSkill;
+package Skill.DodgeSkill;
 import java.util.Random;
 
 public class Invisible extends DodgeSkill{

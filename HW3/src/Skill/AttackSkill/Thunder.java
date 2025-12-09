@@ -1,4 +1,4 @@
-package HW3.Skill.AttackSkill;
+package Skill.AttackSkill;
 import java.util.Random;
 
 public class Thunder extends AttackSkill{

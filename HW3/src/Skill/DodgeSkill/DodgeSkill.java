@@ -1,5 +1,5 @@
-package HW3.Skill.DodgeSkill;
-import HW3.Skill.Skill;
+package Skill.DodgeSkill;
+import Skill.Skill;
 
 public abstract class DodgeSkill extends Skill{
     public DodgeSkill(String name){

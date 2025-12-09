@@ -4,18 +4,17 @@
  * @Last Modified by: ehcgnahc
  * @Last Modified time: 2025-12-03 16:41:35
  */
-package HW3;
-import HW3.Skill.HealSkill.HealSkill;
-import HW3.Skill.HealSkill.BasicHeal;
-import HW3.Skill.HealSkill.AdvancedHeal;
-import HW3.Skill.HealSkill.ExtremelyHeal;
-import HW3.Skill.AttackSkill.AttackSkill;
-import HW3.Skill.AttackSkill.FireBall;
-import HW3.Skill.AttackSkill.PsyShock;
-import HW3.Skill.AttackSkill.Thunder;
-import HW3.Skill.DodgeSkill.DodgeSkill;
-import HW3.Skill.DodgeSkill.Invisible;
-import HW3.Skill.Skill;
+import Skill.HealSkill.HealSkill;
+import Skill.HealSkill.BasicHeal;
+import Skill.HealSkill.AdvancedHeal;
+import Skill.HealSkill.ExtremelyHeal;
+import Skill.AttackSkill.AttackSkill;
+import Skill.AttackSkill.FireBall;
+import Skill.AttackSkill.PsyShock;
+import Skill.AttackSkill.Thunder;
+import Skill.DodgeSkill.DodgeSkill;
+import Skill.DodgeSkill.Invisible;
+import Skill.Skill;
 
 public class Main{
     public static void main(String[] args){

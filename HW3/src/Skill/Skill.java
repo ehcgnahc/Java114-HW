@@ -1,4 +1,4 @@
-package HW3.Skill;
+package Skill;
 
 public class Skill{
     protected String name;

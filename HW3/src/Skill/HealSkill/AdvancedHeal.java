@@ -1,4 +1,4 @@
-package HW3.Skill.HealSkill;
+package Skill.HealSkill;
 import java.util.Random;
 
 public class AdvancedHeal extends HealSkill{
