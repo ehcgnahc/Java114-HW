@@ -9,4 +9,8 @@ public class AdvancedHeal extends HealSkill{
     protected int calculateAmount(){
         return new Random().nextInt(21) + 40;
     }
+
+    protected int bonusDefense(){
+        return new Random().nextInt(6)+5;
+    }
 }

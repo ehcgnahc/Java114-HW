@@ -10,4 +10,8 @@ public class PsyShock extends AttackSkill{
         double weight = 0.5 +  new Random().nextDouble()*0.3;
         return (int)(ability * 10 * weight);
     }
+    
+    protected int bonusTime(int ability){
+        return (int)(ability/2 + 5);
+    }
 }
